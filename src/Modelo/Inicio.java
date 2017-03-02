@@ -1,5 +1,7 @@
 package Modelo;
 
+import java.util.Scanner;
+
 public class Inicio
 {
 
@@ -8,11 +10,7 @@ public class Inicio
 
         // TODO Auto-generated method stub
         String Teste = "Ola mundo";
-
-
-        System.out.println(Teste);
-
-
+        int modelo;
 
     }
 
