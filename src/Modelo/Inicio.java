@@ -7,7 +7,12 @@ public class Inicio
     {
 
         // TODO Auto-generated method stub
-        System.out.println("ola...");
+        String Teste = "Ola mundo";
+
+
+        System.out.println(Teste);
+
+
 
     }
 
