@@ -8,7 +8,7 @@ public class Inicio
 
         // TODO Auto-generated method stub
         System.out.println("ola...");
-        System.out.close();
+
     }
 
 }
